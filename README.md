@@ -28,5 +28,13 @@
 
 
   ![Yasharth's Github Stats](https://github-readme-stats.vercel.app/api?username=yasharthratan&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  
+  ![VisitorCount](https://profile-counter.glitch.me/yasharthratan/count.svg)
+  
+   <h4 align="center"> Thanks for visiting :heart:</h4> 
 
-  [![HitCount](http://hits.dwyl.com/yasharthratan/yasharthratan.svg)](http://hits.dwyl.com/yasharthratan/yasharthratan)
+ 
+ 
+  
+  
+  
