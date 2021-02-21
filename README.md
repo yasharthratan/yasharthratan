@@ -15,6 +15,8 @@
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :sparkler:
 
+* My Resume: [[Click Here]](https://drive.google.com/drive/u/0/my-drive) 
+
 ## My Tech Stack :computer:
 <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge">
