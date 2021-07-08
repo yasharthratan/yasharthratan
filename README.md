@@ -1,7 +1,7 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 
-* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 . I am a sophomore at VIT Vellore pursuing B.Tech  in Computer Science .  :satellite:
+* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 . I am a student at VIT Vellore pursuing B.Tech  in Computer Science .  :satellite:
 
 * I am a Full stack Developer  :sparkles:.
 
