@@ -31,7 +31,7 @@
 ## What I Am Learning :books:
 <img src="https://img.shields.io/badge/-Nodejs-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-MONGODB-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Cloud Computing-blue?style=for-the-badge">
 
-
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthratan&exclude_repo=Portfolio&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
   ![Yasharth's Github Stats](https://github-readme-stats.vercel.app/api?username=yasharthratan&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
