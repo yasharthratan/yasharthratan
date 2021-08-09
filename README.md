@@ -35,6 +35,11 @@
 
   ![Yasharth's Github Stats](https://github-readme-stats.vercel.app/api?username=yasharthratan&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
+  <!--Total Contributions-->
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharthratan&theme=vision-friendly-dark" alt="yasharthratan" /></p>
+
+
+  
   ## Connect with me!
 
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/yasharth.tripathi.7) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yasharthratan/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/yasharth_ratan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasharth-tripathi-68612a196/)
