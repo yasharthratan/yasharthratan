@@ -1,15 +1,15 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 
-* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 . I am a student at VIT Vellore pursuing B.Tech  in Computer Science .  :satellite:
+* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 . I am a 3rd year student at VIT Vellore pursuing B.Tech  in Computer Science .  :satellite:
 
-* I am a Full stack Developer  :sparkles:.
+* I am a Full stack Developer :sparkles:.
 
 * I am also experienced in Management (Opearations,Events) and Marketing (Digital Marketing,Offline Marketing,SEO) :sparkler:.
 
 * I am always looking for challenging work opportunities ahead :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn and explore Machine Learning in the future :fireworks:.
+* I am currently learning DSA and wish to explore fields of Blockchain and Cybersecurity in future. :fireworks:.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
