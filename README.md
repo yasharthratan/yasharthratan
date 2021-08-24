@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-C/C++-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-MONGODB-blue?style=for-the-badge"> 
 
 ## What I Am Learning :books:
-<img src="https://img.shields.io/badge/-DSA-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Reactjs-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-DSA-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Reactjs-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-CyberSecurity-green?style=for-the-badge">
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthratan&exclude_repo=Portfolio&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
