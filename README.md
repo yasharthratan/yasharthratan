@@ -35,13 +35,23 @@
 
   ![Yasharth's Github Stats](https://github-readme-stats.vercel.app/api?username=yasharthratan&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
-  <!--Contribution Graph-->
+  <!--Contribution Graph
 <div width="40" height="40" align="center">
 
 [![Yasharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasharthratan&theme=xcode)](https://github.com/yasharthratan/github-readme-activity-graph)
 
 </div>
+-->
+<!--Contribution Graph-->
+<div width="50" height="50" align="center">
 
+[![Yasharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasharthratan&theme=xcode)](https://github.com/yasharthratan/github-readme-activity-graph)
+
+</div>
+
+                   
+<!--Total Contributions-->
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharthratan&theme=vision-friendly-dark" alt="yasharthratan" /></p>
 
   
   ## Connect with me!
