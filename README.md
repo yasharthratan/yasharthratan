@@ -17,7 +17,7 @@
 
 * My Resume: [[Click Here]](https://drive.google.com/file/d/17sFcAr64Sj90Uag6X9jOpQcQtfaTVr44/view?usp=sharing) 
 
-* My Portfolio Website coming soon 😄: [[Click Here]]() 
+* My Portfolio Website is coming soon 😄: [[Click Here]]() 
 
 
 
