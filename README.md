@@ -9,7 +9,7 @@
 
 * I am always looking for challenging work opportunities ahead :file_cabinet: .
 
-* I am currently learning DSA and Blockchain . :fireworks:.
+* I am currently learning Data Structures and Blockchain . :fireworks:.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
