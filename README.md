@@ -5,19 +5,18 @@
 
 * I am a Full stack Developer :sparkles:.
 
-* I am also experienced in Management (Opearations,Events), Finance (Mutual Funds) and Marketing (Digital Marketing,Offline Marketing,SEO) :sparkler:.
-
-* I am always looking for challenging work opportunities ahead :file_cabinet: .
+* I am also experienced in Management (Opearations,Events), Finance (Mutual Fund) and Marketing (Digital Marketing,Offline Marketing,SEO) :sparkler:.
 
 * I am currently learning Data Structures and Blockchain . :fireworks:.
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :sparkler:
 
 * My Resume: [[Click Here]](https://drive.google.com/file/d/1JSUW_EMiEOGAwP8ntbn8xSTfIF1DglER/view?usp=sharing) 
 
-* My Portfolio Website is coming soon 😄: [[Click Here]]() 
+<!--- My Portfolio Website is coming soon 😄: [[Click Here]]()-->
+
 
 
 
