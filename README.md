@@ -43,12 +43,13 @@
 </div>
 -->
 <!--Contribution Graph-->
+<!--
 <div width="50" height="50" align="center">
 
 [![Yasharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=yasharthratan&theme=xcode)](https://github.com/yasharthratan/github-readme-activity-graph)
 
 </div>
-
+-->
                    
 <!--Total Contributions-->
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharthratan&theme=vision-friendly-dark" alt="yasharthratan" /></p>
