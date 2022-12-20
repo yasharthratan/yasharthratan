@@ -13,7 +13,7 @@
 
 * Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :sparkler:
 
-* My Resume: [[Click Here]](https://drive.google.com/file/d/1DHhF97FvHi9HwcznMr2OChLz3zqWmTdU/view?usp=sharing) 
+* My Resume: [[Click Here]](https://drive.google.com/file/d/1M3uwNgOi9-rdX1zVGZvQng9vHuvju04k/view?usp=sharing) 
 
 <!--- My Portfolio Website is coming soon 😄: [[Click Here]]()-->
 
