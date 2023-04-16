@@ -5,9 +5,9 @@
 
 * I am a Full stack Developer :sparkles:.
 
-* I am also experienced in Management (Opearations,Events), Finance (Mutual Fund) and Marketing (Digital Marketing,Offline Marketing,SEO) :sparkler:.
+* I am also experienced in Management (Opearations,Events), Finance (Mutual Fund) and Marketing (Digital Marketing,Offline Marketing) :sparkler:.
 
-* I am currently learning Data Structures and Blockchain . :fireworks:.
+* I am currently into Cyber Security and Blockchain . :fireworks:.
 
 * I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
