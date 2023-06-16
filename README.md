@@ -7,7 +7,7 @@
 
 * I am also experienced in Management (Opearations,Events), Finance (Mutual Fund) and Marketing (Digital Marketing,Offline Marketing) :sparkler:.
 
-* I am currently into Cyber Security and Blockchain . :fireworks:.
+* I am currently into Java Fullstack and Finance  . :fireworks:.
 
 * I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
