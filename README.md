@@ -1,13 +1,13 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 
-* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 , Final year student at VIT Vellore pursuing B.Tech in Computer Science .  :satellite:
+* I am [Yasharth Tripathi](https://www.linkedin.com/in/yasharth-tripathi-68612a196/) :blush:	 , currently working as an Analyst at Accenture. .  :satellite:
 
-* I am a Full stack Developer :sparkles:.
+* I have graduated with a degree in Computer Science from VIT,Vellore.🎓
 
-* I am also experienced in Management (Opearations,Events), Finance (Mutual Fund) and Marketing (Digital Marketing,Offline Marketing) :sparkler:.
+* I am also experienced in Management (Opearations,Events), Finance and Marketing (Digital Marketing, Offline Marketing) :sparkler:.
 
-* I am currently into Java Fullstack and Finance  . :fireworks:.
+* Constantly learning and exploring new tools and technologies in the data science and finance domain.. :fireworks:.
 
 * I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
@@ -23,12 +23,12 @@
 ## My Tech Stack :computer:
 <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MySQL-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Nodejs-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/-C/C++-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-MONGODB-blue?style=for-the-badge"> 
 
 ## What I Am Learning :books:
-<img src="https://img.shields.io/badge/-DSA-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Reactjs-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-CyberSecurity-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/-DSA-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-ML-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-CyberSecurity-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-AI-green?style=for-the-badge">
 
 <!--Contribution Graph
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthratan&exclude_repo=Portfolio&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
