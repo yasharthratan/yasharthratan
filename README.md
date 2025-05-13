@@ -52,7 +52,7 @@
 -->
                    
 <!--Total Contributions-->
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharthratan&theme=vision-friendly-dark" alt="yasharthratan" /></p>
+<!--<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharthratan&theme=vision-friendly-dark" alt="yasharthratan" /></p>-->
 
   
   ## Connect with me!
